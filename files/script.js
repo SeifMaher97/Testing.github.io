@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["som3a" , "3ala" , "beta3i"],
+    strings: ["som3a" , "3ala" , "my dick"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
